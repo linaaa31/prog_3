@@ -1,0 +1,12 @@
+{"totalGrassCount":267,"gameCount":0}
+{"totalGrassCount":607,"gameCount":1}
+{"totalGrassCount":1031,"gameCount":2}
+{"totalGrassCount":1322,"gameCount":3}
+{"totalGrassCount":1244,"gameCount":4}
+{"totalGrassCount":875,"gameCount":5}
+{"totalGrassCount":630,"gameCount":6}
+{"totalGrassCount":386,"gameCount":7}
+{"totalGrassCount":140,"gameCount":8}
+{"totalGrassCount":96,"gameCount":9}
+{"totalGrassCount":4,"gameCount":10}
+{"totalGrassCount":0,"gameCount":11}
